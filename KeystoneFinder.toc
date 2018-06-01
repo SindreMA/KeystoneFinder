@@ -1,6 +1,0 @@
-## Interface: 70100
-## Title: KeystoneFinder
-## Version: 1
-## Notes: Tool for finding good/random keystone
-## Author: SindreMA
-main.lua
